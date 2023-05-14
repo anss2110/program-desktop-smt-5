@@ -1,7 +1,6 @@
 package id.ac.ut.pd5.sesi3.diskusi;
 
 public class ContohArray {
-    static int[] arrayInt;
     static String[] arrayString = new String[5];
     public static void main(String[] args) {
         arrayString[0] = "a";
